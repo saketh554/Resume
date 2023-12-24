@@ -1,0 +1,187 @@
+/* Add your styles for the resume here */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+  }
+  
+  header p {
+    font-size: 1.2em;
+  }
+  
+  section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+  }
+  
+  h2 {
+    color: #333;
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+  }
+  
+  ul {
+    list-style-type: square;
+    padding-left: 20px;
+  }
+  
+  section:hover {
+    transform: scale(1.02);
+  }
+/* Your existing styles */
+
+#projects {
+    margin-top: 20px;
+  }
+  
+  .project {
+    margin-bottom: 20px;
+  }
+  
+  .project h3 {
+    color: #333;
+    border-bottom: 1px solid #333;
+    padding-bottom: 5px;
+  }
+  
+  .project p {
+    margin: 10px 0;
+  }
+/* Your existing styles */
+
+#additionalInfo {
+    margin-top: 20px;
+  }
+  
+  #additionalInfo h2 {
+    color: #333;
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+  }
+  
+  #additionalInfo ul {
+    list-style-type: square;
+    padding-left: 20px;
+  }
+  
+  #additionalInfo h3 {
+    color: #333;
+    border-bottom: 1px solid #333;
+    padding-bottom: 5px;
+  }
+  
+  #additionalInfo ul {
+    list-style-type: square;
+    padding-left: 20px;
+  }
+/* Your existing styles */
+
+.animated {
+    opacity: 0;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  .fadeIn {
+    animation: fadeIn 1s ease-in-out;
+  }
+  
+  #additionalInfo {
+    margin-top: 20px;
+  }
+  
+  #additionalInfo h2 {
+    color: #333;
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+  }
+  
+  #additionalInfo ul {
+    list-style-type: square;
+    padding-left: 20px;
+  }
+  
+  #additionalInfo h3 {
+    color: #333;
+    border-bottom: 1px solid #333;
+    padding-bottom: 5px;
+  }
+  
+  #additionalInfo ul {
+    list-style-type: square;
+    padding-left: 20px;
+  }
+/* Your existing styles */
+
+.animated {
+    opacity: 0;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  .fadeIn {
+    animation: fadeIn 1s ease-in-out;
+  }
+  
+  #pageTitle {
+    transition: color 0.5s;
+    cursor: pointer;
+  }
+  
+  #pageTitle:hover {
+    color: #FF4500; /* Change the color on hover (you can use any color code you prefer) */
+  }
+  
+  #additionalInfo {
+    margin-top: 20px;
+  }
+  
+  #additionalInfo h2 {
+    color: #333;
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+  }
+  
+  #additionalInfo ul {
+    list-style-type: square;
+    padding-left: 20px;
+  }
+  
+  #additionalInfo h3 {
+    color: #333;
+    border-bottom: 1px solid #333;
+    padding-bottom: 5px;
+  }
+  
+  #additionalInfo ul {
+    list-style-type: square;
+    padding-left: 20px;
+  }
+          
